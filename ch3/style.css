@@ -33,7 +33,7 @@ h2{
     float:right;
     margin:5px;    
 }
-.block2{
+.block2{   
     width: 100px;
     height: 100px;
     background-color:cadetblue;
@@ -44,5 +44,13 @@ h2{
     width: 100px;
     height: 100px;
     background-color:coral;
+    margin:5px;
+    float:left;
+}
+
+.block4{
+    width: 200px;
+    height: 200px;
+    background-color:cornflowerblue;
     margin:5px;
 }
