@@ -1,0 +1,19 @@
+
+.nav{    
+    height: 50px;
+    border-top: 1px solid red;
+    background-color: #FCFCFC;
+}   
+.nav a{
+    height: 50x;    
+    display: inline-block;
+    text-decoration: none;
+    color: #4c4c4c;
+    line-height: 50px;
+    font-size: 14px;
+    padding: 0 18px;
+}
+.nav a:hover{
+    background-color: #edeef0;
+
+}

@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+div{
+    width: 500px;
+    height: 500px;
+    
+}   
+
+.t1{
+    margin-top: 50px;
+    width: 100px;
+    height: 100px;
+    background-color: purple;       
+}
+.t2{
+    overflow:hidden;
+    background-color: #ffb6c1;        
+}

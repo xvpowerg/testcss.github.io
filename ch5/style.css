@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+.test1{
+    width: 198px;
+    height: 198px;
+    background-color: #ffb6c1;
+    border: 1px solid black;
+    padding: 100px 0 0 100px;
+   
+}   
+.test1 div{
+    width: 98px;
+    height: 98px;
+    background-color:gray;
+    border: 1px solid black;
+}

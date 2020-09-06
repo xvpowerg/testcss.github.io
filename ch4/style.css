@@ -1,0 +1,16 @@
+li.test{
+    color: crimson;
+}
+div li{
+    color: green;
+}
+.testx h3{
+    color:lightcoral;
+}
+.testx2>div>p{
+    height: 100px;
+    width: 10px;
+    color: lightgreen;
+    background-color: lightcoral;
+    text-align: center;
+}
