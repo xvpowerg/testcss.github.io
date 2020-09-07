@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.top{
+    height: 80px;
+    background-color: pink;
+}
+.inner_top{
+    width: 960px;
+    height: 80px;
+    background-color:tomato;
+    margin: 0 auto;
+}
+.banner{
+    width: 960px;
+    height: 150px;
+    background-color: purple;
+    margin: 0 auto;  
+}
+.main{
+    width: 960px;
+    height: 500px;
+    background-color: #ccc;
+    margin: 0 auto;  
+}
+.main li{
+    width: 232.5px;
+    list-style: none;
+    float: left;
+    height: 150px;   
+    margin-right: 10px;  
+}
+
+.footer{
+    width: 960px;
+    height: 200px;
+    background-color: #eee;
+    margin: 0 auto;  
+}
+
+.one{
+    background-color:crimson
+}
+.tow{
+background-color:wheat
+}
+.three{
+    background-color:teal
+}
+.main .four{
+    background-color:aquamarine;
+    margin-right: 0px;  
+}

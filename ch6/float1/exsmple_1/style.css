@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #fafafa;
+}
+.hearder{
+    height: 60px;
+    background-color: #fff;
+}
+.inner{
+width: 1200px;
+height: 60px;
+/*background-color: pink;*/
+margin: 0 auto;
+}
+.logo{
+   float: left; 
+}
+.nav{
+    float: right;   
+    height: 60px;      
+ }
+ .nav li{
+     list-style: none;
+     float: left;
+     line-height: 60px;
+     margin-left:40px ;
+ }
+ .nav a{
+     text-decoration: none;
+     font-size: 14px;
+ }
+ .nav a:hover{
+    color: skyblue; 
+ }

@@ -1,0 +1,21 @@
+.top,.banner,.main,.footer{
+    width: 900px;
+    background-color: #eee;
+    border: 1px dashed #ccc;
+    margin: 0 auto;
+}
+.top{   
+    height: 80px;  
+}
+.banner{    
+    height: 120px;
+    margin: 10px auto;
+}
+.main{
+ 
+    height: 500px;
+    margin: 0 auto 10px;
+}
+.footer{
+    height: 100px;
+}

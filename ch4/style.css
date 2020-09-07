@@ -7,7 +7,7 @@ div li{
 .testx h3{
     color:lightcoral;
 }
-.testx2>div>p{
+.testx2>div>    p{
     height: 100px;
     width: 10px;
     color: lightgreen;
