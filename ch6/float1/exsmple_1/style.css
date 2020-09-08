@@ -22,6 +22,9 @@ margin: 0 auto;
     float: right;   
     height: 60px;      
  }
+ .nav ul{
+    overflow: hidden;
+ }
  .nav li{
      list-style: none;
      float: left;
