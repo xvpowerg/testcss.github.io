@@ -44,10 +44,12 @@ margin: 0 auto;
  }
  .service{
     width: 1164px;   
-    height: 640px;
+    height: 900px;
     margin:30px auto 0;
-    /* background-color: pink; */
-     
+   
+ }
+ .service_bd1{
+     margin-top: 30px;
  }
  .service-head{
     border-top: 1px solid #ccc;
@@ -85,4 +87,25 @@ margin: 0 auto;
      text-align: center;
      width: 830px;
      margin: 0 auto;
+ }
+ .service_bd1 li{
+    list-style: none;
+    /* background-color:pink; */
+    width: 280px;
+    height: 340px;
+    float: left;
+ }
+ .service_bd1 img{
+     width: 255px;
+ }
+ .clearfix:after{
+    content: "";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+ }
+
+ .tb{
+    background-color: red;
  }
